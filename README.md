@@ -25,7 +25,7 @@ Make
 
 * To clean generated file, type `make clean` on the command line.  
 
-* For linus user, if you would like to use openblas library, you can install openblas by command `sudo apt-get install libopenblas-dev`. Then you need to replace all the `-llapack` and `-lblas` by the `-lopenblas` in Makefile.
+* For linux user, if you would like to use openblas library, you can install openblas by command `sudo apt-get install libopenblas-dev`. Then you need to replace all the `-llapack` and `-lblas` by the `-lopenblas` in Makefile.
 
 Running the tests
 -----------------
